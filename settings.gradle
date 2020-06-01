@@ -1,0 +1,5 @@
+include ':savedstate'
+include ':share'
+include ':basic'
+//include ':app'
+rootProject.name = "ViewModelSample"

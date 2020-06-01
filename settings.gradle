@@ -1,5 +1,5 @@
 include ':savedstate'
 include ':share'
 include ':basic'
-//include ':app'
+include ':savedstate_with_dagger'
 rootProject.name = "ViewModelSample"

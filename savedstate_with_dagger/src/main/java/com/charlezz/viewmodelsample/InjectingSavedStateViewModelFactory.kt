@@ -12,7 +12,7 @@ import javax.inject.Singleton
 
 /**
  * ViewModel들을 인스턴스화 하기 위해 이 클래스를 사용할 수 있다.
- * Fragment/Activity 에서 이 Factory를 주입받아 ViewModel을 생성하는데 사용할 수 있따.
+ * Fragment/Activity 에서 이 Factory를 주입받아 ViewModel을 생성하는데 사용할 수 있다.
  */
 @Singleton
 class InjectingSavedStateViewModelFactory
